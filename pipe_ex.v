@@ -1,5 +1,5 @@
 // this is a simple pipelining code
-// read pipe_ex.txt for notes
+
 
 module pipe_ex (zout, rs1, rs2, rd, func, addr, clk1, clk2);
 
